@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Bruno 👋</h2>
-<p align="center">Backend & full-stack developer from Porto, Portugal · getting into game dev with Unity/C#</p>
+<p align="center">Backend & full-stack developer from Porto, Portugal · exploring game development with Unity/C#</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brunopascoaldev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
