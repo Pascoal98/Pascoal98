@@ -25,7 +25,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [game-achievements](https://github.com/Pascoal98/game-achievements) | Steam + RPCS3 dashboard: playtime, completion, unlock heat map | FastAPI · React |
+| [game-achievements](https://github.com/Pascoal98/game-achievements) |  Dashboard: playtime, completion, unlock heat map | FastAPI · React |
 | [RPCS3 fork](https://github.com/Pascoal98/rpcs3/tree/joystick-rebind) | PS3 emulator: fixed motion-sensor (sixaxis) tilt emulation so games read up/down pitch correctly | C++ |
 | [Xelda](https://github.com/Pascoal98/LDTS-Xelda) | Zelda-like dungeon RPG with shop, battles and inventory | Java · design patterns |
 | [NARCOS](https://github.com/Pascoal98/LBAW-NARCOS) | Collaborative news platform | Laravel · PostgreSQL · Docker |
